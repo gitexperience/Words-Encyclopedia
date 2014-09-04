@@ -1,0 +1,84 @@
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\ApplicationIcon.png
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Background.png
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Words World.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Words World.pdb
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\AppManifest.xaml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Words_World.xap
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\Words World.csprojResolveAssemblyReference.cache
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\App.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\MainPage.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\Words World.g.resources
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\Words World.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\Words World.pdb
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\XapCacheFile.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\aboutus.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary\Words World\obj\Debug\infopage.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\ApplicationIcon.png
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Background.png
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\AppManifest.xaml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Words_World.xap
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\Words World.csprojResolveAssemblyReference.cache
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\App.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\aboutus.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\infopage.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\MainPage.g.i.cs
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\XapCacheFile.xml
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Words encyclo.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\Bin\Debug\Words encyclo.pdb
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\Words encyclo.g.resources
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\Words encyclo.dll
+C:\Users\Anubhav\Documents\Visual Studio 2010\Projects\dictionary_2\Words World\obj\Debug\Words encyclo.pdb

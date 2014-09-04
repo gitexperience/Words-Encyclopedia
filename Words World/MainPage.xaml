@@ -1,0 +1,101 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit" 
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions" 
+    x:Class="dictionary.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="false" Loaded="PhoneApplicationPage_Loaded_2">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,8,12,37">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFFF0034" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <TextBlock x:Name="ApplicationTitle" Text="DICTIONARY" Style="{StaticResource PhoneTextNormalStyle}">
+            	<TextBlock.Foreground>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="Black" Offset="0"/>
+            			<GradientStop Color="White" Offset="1"/>
+            		</LinearGradientBrush>
+            	</TextBlock.Foreground>
+            </TextBlock>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="0,50,0,12">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF0016FF" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="243*" />
+                <ColumnDefinition Width="213*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <toolkit:ListPicker x:Name="listpickerdictionarylist" Header="Select Dictionary :" Height="80" Margin="16,30,8,-1" Grid.ColumnSpan="2" Background="#FFCFDCE6" Foreground="Black"/>
+            <Grid Grid.Row="1" Margin="0,5,0,0" Grid.ColumnSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="txtboxinputword" GotFocus="ontextboxinputwordgotfocus" Margin="0,0,144,0" Foreground="Black" />
+                <Button Content="find" x:Name="btngo" Click="btngo_Click" Margin="324,0,0,0" Foreground="#FFF9F1F4" />
+            </Grid>
+
+
+            <ScrollViewer Grid.Row="2" x:Name="scrollviewer" Grid.ColumnSpan="2" Margin="0,2,0,37" Height="525">
+                <TextBlock Margin="12,5,12,5" x:Name="txtblockwordmeaning" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextWrapping="Wrap" FontSize="26" Width="453" Foreground="White" FontFamily="Book Antiqua" />
+            </ScrollViewer>
+        </Grid>
+        <Button Content="...." HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Bottom" Height="58" BorderThickness="0" d:LayoutOverrides="HorizontalAlignment" Grid.Column="1" Width="72">
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="Click">
+        			<ec:NavigateToPageAction TargetPage="/infopage.xaml"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+            	<Button.Background>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="Black" Offset="0"/>
+            			<GradientStop Color="#FF0E00FF" Offset="1"/>
+            		</LinearGradientBrush>
+            	</Button.Background>
+            </Button>
+            
+           
+       
+        <!--Sample code showing usage of ApplicationBar-->
+        <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+    </Grid>
+</phone:PhoneApplicationPage>
